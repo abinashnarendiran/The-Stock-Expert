@@ -3,7 +3,7 @@
  1. Open git shell in any folder location you want on your device
  2. Execute :
  
-          $ git clone https://github.com/saijeeshanketheeswaran/The-Stock-Expert
+          $ git clone https://github.com/abinashnarendiran/The-Stock-Expert
           
  3. Open Android Studio ( If you don't have it , install Android Studio)
  4. Select File > New > Import Project
